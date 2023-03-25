@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Random Quotes",
+    "description": "Quote of the day!",
+    "version": "0.0.1",
+    "action": {
+        "default_popup": "index.html"
+        
+      }
+}
